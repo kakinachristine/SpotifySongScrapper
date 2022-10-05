@@ -1,0 +1,53 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Nyashinski,Hello,Hello,5oHGYyIokNKyDvyi4pNu44,0.633,0.695,8,-6.048,1,0.166,0,0.0783,0.605,126.521,230000,5
+Nyashinski,Properly (feat. Femi One),Properly (feat. Femi One),6zSFJHyjfajlXTSV7p4j0G,0.909,0.56,9,-7.345,1,0.366,0,0.0295,0.704,110.137,196364,4
+Nyashinski,Hapo Tu (feat. Chris Kaiga),Hapo Tu (feat. Chris Kaiga),6JR3F5nXtkkHwiCHIeYqSC,0.726,0.706,1,-3.448,1,0.343,0.000587,0.0291,0.555,119.896,187556,3
+Nyashinski,Mungu Pekee,Mungu Pekee,1QgM3SejXDyHkqt0guA4TX,0.718,0.759,0,-4.548,1,0.173,0,0.0624,0.769,100.008,230452,4
+Nyashinski,Bebi Bebi,Bebi Bebi,4U2PpIPmXV04EyrzNe0Ary,0.708,0.442,1,-8.699,1,0.166,0,0.0456,0.788,146.01,240000,4
+Sauti Sol,Afrikan Sauce,Short N Sweet,2EISZ7FY6AkSP8ObzenBcB,0.671,0.687,9,-6.318,1,0.23,0,0.163,0.684,173.833,223403,4
+Sauti Sol,Midnight Train,Suzanna,4CpkKi23V5U6fd419XNQnG,0.793,0.778,9,-5.731,1,0.0519,0,0.103,0.755,101.997,230787,4
+Sauti Sol,Midnight Train,Midnight Train,2wjStOr7RhZ6s6oNn8Nbzb,0.698,0.773,7,-8.106,1,0.184,0,0.164,0.527,100.011,232058,4
+Sauti Sol,Midnight Train,Insecure,6dDDPV8S5meV46SamOnDNl,0.68,0.585,7,-8.199,1,0.104,0,0.122,0.535,147.96,190980,4
+Sauti Sol,Live and Die In Afrika,Sura Yako,14hmRkJelWnZu3mWzBfWfg,0.561,0.965,9,-3.313,0,0.171,0,0.139,0.782,180.165,237062,3
+Bien,Inauma,Inauma,3HlLqEWLhoKV9GVVOFerQb,0.73,0.673,7,-8.518,1,0.0597,0,0.125,0.632,96.98,210309,4
+Bien,Bald Men Love Better,Mbwe Mbwe,7d5IXFX7Ubuvl0JuIAdUTO,0.705,0.588,2,-11.185,1,0.0328,0.000342,0.249,0.86,149.979,313819,4
+Bensoul,Thick Thighs,Thick Thighs,554GIS5vF1pZXRKymmYrSb,0.592,0.795,4,-6.523,0,0.349,0,0.406,0.615,120.088,177391,5
+Bien,Bald Men Love Better,Reset Rewind,4B9Rhu9Xdq3Vo1hfLJQh9p,0.351,0.479,7,-10.343,1,0.0442,0,0.102,0.355,167.875,269811,4
+Bien,Bald Men Anthem,Bald Men Anthem,3rJzQDT5O5pgyLWzpzU7oN,0.426,0.541,6,-11.155,0,0.134,0.00469,0.0553,0.593,177.741,254635,4
+FEMI ONE,Donjo,Donjo,1elg3I7brfkbPobESQoHWE,0.591,0.53,1,-10.377,1,0.254,0,0.165,0.6,118.477,176000,5
+FEMI ONE,Greatness,Adonai,0PhRfGAuBYlwSCPHVuKcfv,0.736,0.482,8,-11.587,0,0.261,0.000107,0.13,0.644,177.997,284494,4
+FEMI ONE,Hepi,Hepi,2HV7LKVfSS4U9oRLXOoEtv,0.741,0.692,10,-5.262,0,0.333,3.92e-06,0.327,0.664,187.936,211023,4
+Fena Gitu,Steam,Steam,5FDJRlwVrsIzvtPYXkwoR6,0.751,0.811,10,-6.732,0,0.0418,6.58e-05,0.0534,0.83,96.005,183125,4
+Fena Gitu,Unleashed,Kaende,1Dr1B7vv2csEtu22QxiRvi,0.58,0.56,10,-9.026,0,0.133,0,0.0988,0.415,102.067,217699,4
+Fena Gitu,Sema Ng'we,Sema Ng'we,11ThYDaSKQTS1zaTfS34OP,0.757,0.559,6,-8.377,0,0.259,0,0.154,0.556,97.917,225358,4
+Mejja,Mejja,Siskii,7puSVBxqYL4iHE3s6Xu7dx,0.836,0.641,6,-6.099,0,0.0822,0.000137,0.0987,0.56,100.028,193358,4
+Mejja,Kanairo,Tabia Za Wakenya (kanairo),36FZxDR780aUeqvXW3ZUov,0.783,0.773,8,-3.915,1,0.0816,0.00596,0.0998,0.929,94.949,241972,4
+Mejja,Usiniharibie Mood,Usiniharibie Mood,5OflrN0O5MUtruSRH3KILR,0.8,0.731,1,-6.74,1,0.0443,0.00362,0.107,0.443,100.0,160152,4
+Mejja,Siku Hizi Ni Ku Bad,Siku Hizi Ni Ku Bad,77e2nFKcEgOOyr2sbYjAGt,0.847,0.616,1,-7.508,1,0.0686,0.107,0.118,0.692,90.023,199623,4
+Wakadinali,EXPOSED (Munga`s Revenge),Geri Inengi,3mMCfqlXkDzH8jE9mjIu7d,0.628,0.753,10,-5.286,0,0.375,1.24e-05,0.0994,0.615,96.407,270000,4
+Wakadinali,Victims of Madness,Morio Anzenza,36ORyl93KYhB2loEeh9Pld,0.888,0.663,6,-4.255,1,0.21,0,0.0778,0.434,129.961,269688,4
+Wakadinali,EXPOSED (Munga`s Revenge),Geri Inengi,3mMCfqlXkDzH8jE9mjIu7d,0.628,0.753,10,-5.286,0,0.375,1.24e-05,0.0994,0.615,96.407,270000,4
+Khaligraph Jones,Sifu Bwana (feat. Nyashinski),Sifu Bwana (feat. Nyashinski),2WJxCKZOm7kfuhB89ChUqz,0.829,0.682,4,-7.326,1,0.0439,0,0.152,0.403,110.008,259636,4
+Khaligraph Jones,Wavy (feat. Sarkodie),Wavy (feat. Sarkodie),7mD6V6JHA0daZKOvVrBKp7,0.631,0.82,1,-8.245,1,0.143,0,0.113,0.279,140.014,251820,4
+Sauti Sol,Afrikan Sauce,Rewind,2yU9WPb2nJBwiaHFpWot0l,0.703,0.68,6,-9.062,0,0.203,0,0.155,0.881,94.96,227368,4
+Khaligraph Jones,CHAMPEZ,CHAMPEZ,014PFhieekBnB1kS2YrT6p,0.548,0.563,1,-11.226,1,0.504,0,0.127,0.461,179.93,247980,4
+Khaligraph Jones,"Luku (feat. Kattapila, DonnJ, Steph Kapella, Brit The Ruler, Ssaru, Boutross, Span & KOB)","Luku (feat. Kattapila, DonnJ, Steph Kapella, Brit The Ruler, Ssaru, Boutross, Span & KOB)",5gQ5F7hBtTX2mhLxbnFebm,0.515,0.81,10,-5.562,0,0.371,0,0.0857,0.539,77.448,448659,4
+Khaligraph Jones,Yes Bana,Yes Bana,08yAdXncdSCnpuQZyaJE9M,0.595,0.579,11,-8.173,0,0.464,0,0.094,0.405,172.361,275540,3
+Khaligraph Jones,Khali Cartel 3,Khali Cartel 3,0oQDBLn0cTSCELktphqevO,0.642,0.705,0,-6.171,1,0.51,0,0.0671,0.554,165.448,598074,4
+Otile Brown,Just In Love,Dusuma,35riG35oLwfgvv8j5tSY9V,0.731,0.794,7,-4.63,0,0.138,2.22e-06,0.122,0.723,177.97,213030,4
+Otile Brown,Such Kinda Love,Such Kinda Love,12ZjCl72eIKjyRLxdzCzp3,0.745,0.827,10,-4.074,1,0.0405,0.000401,0.243,0.786,93.987,186383,4
+Otile Brown,Baby Love,Baby Love,7pvReoWJbC0IJqBHs8Q5c6,0.706,0.834,6,-5.863,1,0.0814,1.65e-05,0.0996,0.726,101.14,197280,4
+Otile Brown,Chaguo la Moyo (feat. Sanaipei),Chaguo la Moyo (feat. Sanaipei),0jN5nAQMiKZHvIaaMdRoYn,0.462,0.538,5,-8.159,1,0.0887,1.56e-06,0.105,0.504,161.934,204513,4
+Otile Brown,Aye,Aye,0JxWDGHts2i30zxTW4GLIp,0.427,0.667,9,-6.564,1,0.0472,7.25e-06,0.28,0.545,140.534,178722,3
+Mbuzi Gang,Shamra Shamra,Shamra Shamra,0zBeSzwKqoZ96EVfltBxp6,0.913,0.857,4,-5.854,1,0.216,1.79e-05,0.0786,0.853,98.017,201723,4
+Nikita Kering',A Side Of Me,Ex,352jbBYOtwkzJEMC2KkuiG,0.64,0.464,2,-7.564,0,0.0876,0,0.225,0.294,90.029,204000,4
+Ethic Entertainment,Bazenga,Bazenga,5LeSLsMzbTVzN9nMh0DXgX,0.8,0.651,11,-5.712,0,0.175,0.00943,0.0498,0.322,89.97,170722,4
+Ethic Entertainment,Tarimbo,Tarimbo,2h6G38N7N15sa2k3wu2f8y,0.928,0.719,6,-7.219,0,0.172,2.93e-05,0.175,0.757,99.939,174000,4
+Willy Paul,I Do,I Do,55o0Kmj1fDK5spgELFi5G9,0.621,0.748,6,-4.756,1,0.064,0,0.147,0.62,92.112,238759,4
+Willy Paul,Njiwa,Njiwa,2EaPDgAYxbEkw33GX5AESW,0.653,0.67,4,-8.039,1,0.203,0.000104,0.191,0.633,179.889,258220,4
+Willy Paul,Tamu Walahi,Tamu Walahi,4OEkqEKvDyPZhFCB8DKWDo,0.836,0.751,1,-6.82,0,0.198,0.000262,0.137,0.702,97.991,218626,4
+Willy Paul,Kamati Ya Roho Chafu,Kamati Ya Roho Chafu,4u6rWAGzucybgRpRWjEb6G,0.675,0.865,1,-4.573,1,0.182,0,0.657,0.761,97.85,139227,4
+Otile Brown,Mapenzi Hisia,Mapenzi Hisia,2NUmT9bkWTOKwXyphQgm1I,0.684,0.684,7,-8.729,1,0.0596,9.33e-06,0.568,0.512,87.973,222145,4
+Vivian Kenya,Vivi,Accelerator,4aLjA8wfNGD07wgZgrpPA2,0.787,0.892,1,-5.657,1,0.127,0.0131,0.065,0.926,180.043,234710,4
+Lilmaina,KISHASH,KISHASH,7BmSFviUm0dByhAZ10wNbk,0.928,0.731,2,-5.111,1,0.208,0,0.112,0.571,101.043,159940,4
+NDOVU KUU,NDOVU NI KUU,NDOVU NI KUU,2Yr2JGQxWoyCwnnW12NMeV,0.894,0.653,7,-6.933,1,0.319,0,0.101,0.75,93.99,227866,4
