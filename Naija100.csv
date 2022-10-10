@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Black Sherif,The Villain I Never Was,45,7xLP9GqWARDKSoGPsU3126,0.845,0.718,6,-7.934,0,0.238,0,0.0937,0.454,149.989,179201,4
+Seth Leo,Bad Girl Diary,Bad Girl Diary,0zpb8yYvhgOU9PGsjpilDx,0.706,0.745,0,-4.979,1,0.103,0.000275,0.105,0.734,171.963,171522,4
+Blaqbonez,Back In Uni,Back In Uni,1DjjSWom4la3p67sZcBWTN,0.844,0.556,6,-5.531,1,0.301,0,0.175,0.65,105.034,150857,4
+Black Sherif,The Villain I Never Was,Oil in my Head,5zNWfIlGEVQ72uzVOGgAiZ,0.497,0.398,9,-13.886,1,0.242,0.0704,0.126,0.273,161.698,153373,5
+Black Sherif,The Villain I Never Was,Toxic Love City,53ghSWYpqUBsopl2R0D5xl,0.88,0.391,6,-9.761,1,0.27,0,0.114,0.666,105.982,181119,4
+Asake,Mr. Money With The Vibe,Joha,5UwxpuGHkwiojKDaPC5ZNu,0.819,0.817,1,-8.221,0,0.0698,0.201,0.275,0.77,120.039,148000,4
+Asake,Mr. Money With The Vibe,Organise,2wgvxtggKVzPkl0smF2UzI,0.779,0.79,9,-6.246,0,0.0612,2.24e-05,0.506,0.484,113.064,123717,4
+Joeboy,Likkle Riddim,Likkle Riddim,3weAbRf5cn9SiCYxqZedot,0.826,0.679,1,-7.582,1,0.0904,0.594,0.0895,0.817,99.967,165613,4
+Seth Leo,Psycho,Psycho,2ApVMFAFZm4UGTPgHy8Sv1,0.652,0.597,3,-8.925,0,0.201,2.27e-05,0.118,0.353,87.947,171027,4
+Black Sherif,The Villain I Never Was,Sad Boys Don't Fold,0UtHD3hSKIglnfYtnaXE1L,0.517,0.559,5,-8.377,0,0.22,1.12e-06,0.133,0.548,139.22,161119,4
+Patoranking,Kolo Kolo,Kolo Kolo,2RnkJgwCzgvQU3MUysO1fG,0.557,0.845,6,-4.352,0,0.103,2.29e-05,0.289,0.542,127.432,195136,5
+Pheelz,Electricity,Electricity,6McBvfxgkVfREmQPwTKBUn,0.823,0.717,9,-3.879,1,0.0704,0,0.102,0.489,110.998,132913,4
+Ayra Starr,Rush,Rush,1rrqJ9QkOBYJlsZgqqwxgB,0.792,0.503,1,-8.044,1,0.0626,0.00057,0.0959,0.381,99.97,185093,4
+Asake,Mr. Money With The Vibe,Dull,46gfN72BxmLvACx6Pve4XU,0.645,0.324,7,-11.224,1,0.0302,0.0014,0.547,0.414,115.002,100174,4
+Seth Leo,Space,Space,49X7JhZU4FyQWpCLAimDHU,0.76,0.585,3,-8.248,0,0.474,1.12e-05,0.202,0.678,168.105,171886,4
+Young Jonn,Xtra Cool,Xtra Cool,5F4OfeowSReF93KcH2eUcG,0.843,0.725,6,-7.282,0,0.0539,0.00357,0.0948,0.556,120.0,150000,4
+Bella Shmurda,Philo,Philo,5OTKO93FLT25URfam2hZgP,0.956,0.322,0,-13.333,0,0.206,0.00281,0.0927,0.925,111.119,168725,4
+Poco Lee,Otilo (Izz Gone),Otilo (Izz Gone),3nTzEDC9sTD0YsC9C7osnN,0.848,0.697,10,-7.175,0,0.0636,0.0146,0.0525,0.889,115.05,162783,4
+Rexxie,Abracadabra,Abracadabra,7zhLSGUbneW7Tm3wpp3HjY,0.914,0.721,2,-6.966,1,0.0413,0.0352,0.0794,0.481,114.053,182073,4
+Black Sherif,Soja,Soja,5F7imvl6nIRWoMCejdR4Sk,0.819,0.384,0,-9.115,0,0.0685,5.22e-05,0.111,0.32,95.017,181546,4
+Black Sherif,The Villain I Never Was,Konongo Zongo,3F6xtKBO2YixpP8lFJTiGo,0.75,0.373,11,-9.263,0,0.518,0,0.101,0.387,79.759,191986,4
+S high,Hypnotize,Hypnotize,3K6KPwVBpyzje1UaHh5N1i,0.676,0.543,6,-3.963,0,0.227,3.03e-05,0.137,0.54,102.504,206821,4
+Tekno,PAY,PAY,1bgbmg7fyF0qarV4m86aH6,0.779,0.715,8,-9.235,1,0.0402,0.0821,0.0516,0.656,113.018,207212,4
+The Therapist,Nack Remix,Nack Remix,0SzvGgLW3d3P6ODpRwxGPA,0.928,0.676,1,-6.926,1,0.0777,0.000962,0.0943,0.518,113.08,178468,4
+KAESTYLE,Kae's Study,Blessings,0U7ZICZtRhWB3oSMdtulDL,0.669,0.348,7,-12.415,0,0.361,0.0419,0.134,0.716,121.258,166034,5
+Seth Leo,Udara,Udara,1bTwofnM2zLQ1PRzxVKihC,0.811,0.658,7,-6.237,1,0.0481,0,0.115,0.927,104.008,160731,4
+Kayode,I Don't Want Your Love,I Don't Want Your Love,6Q9EnACrkMAYe8vY8dg9HL,0.7,0.57,8,-5.638,1,0.208,0,0.15,0.453,146.092,177806,4
+Mr Eazi,Patek,Patek,3Ry6M5to0EblssBg3pfJt8,0.87,0.45,1,-12.221,1,0.0434,0.414,0.0514,0.508,112.987,116427,4
+CKay,mmadu,mmadu,4QzOS4y283J1iizwxgTEk8,0.713,0.563,1,-4.459,1,0.123,0.705,0.119,0.746,125.144,196713,5
+Rema,Calm Down (with Selena Gomez),Calm Down (with Selena Gomez),0WtM2NBVQNNJLh6scP13H8,0.801,0.806,11,-5.206,1,0.0381,0.000669,0.114,0.802,106.999,239318,4
+Joshua Adere,Home Boy,Home Boy,6kCiW7ozLXRpEimLzliHRB,0.61,0.676,5,-6.981,1,0.054,1.11e-05,0.0573,0.779,114.928,152348,4
+Peruzzi,Hypertension / Things I Need,Things I Need,3Q2hwP99f1IU9DaHcyB1vM,0.822,0.897,0,-5.308,0,0.118,0,0.226,0.661,114.964,158609,4
+Ayanfe,Temptation,Temptation,0yNmpPoO0oOPsjbZ46O4kq,0.502,0.589,11,-9.563,0,0.199,0,0.0784,0.554,145.046,152398,4
+Sosa.ttw,Through Da’ Rain,Through Da’ Rain,1fa8yz1ky2ufCYUSSxZ3Ij,0.494,0.471,4,-16.243,0,0.125,0,0.179,0.617,139.8,185234,4
+Sun Fin,Bed of Rap,Bed of Rap,0bAtpAc3OGR2bPdo2Gv0kb,0.847,0.501,7,-7.86,1,0.4,0.000855,0.0937,0.346,142.285,204890,4
+S I,"Picasso Vibes, Vol. 1 - Sounds of African Music",Dutty Wine,0zNiCyeYO5HtWDUiKif2JI,0.643,0.573,6,-7.56,0,0.331,0,0.341,0.755,124.678,181277,5
+CynMiah,Lost Hope,Lost Hope,5sVwzYT4OS4oW2cxq1IR3a,0.883,0.485,10,-7.529,0,0.0673,0.634,0.0871,0.283,123.957,233744,4
+Berri-Tiga,God,God,1Px7fs75casFjjk6T1sCEg,0.526,0.654,4,-5.655,1,0.311,0.00585,0.411,0.496,104.15,148744,4
+CynMiah,Afroswing (Freestyle),Afroswing - Freestyle,49twETyPHqDTbFIliW0Xef,0.76,0.456,8,-10.729,1,0.206,0.000667,0.445,0.577,95.008,164327,4
+Victony,Outlaw,Soweto,6RbOyNeajWax51NtpO6WT8,0.749,0.663,5,-7.093,0,0.0364,0.000168,0.103,0.593,104.967,148000,4
+Diljit Dosanjh,Jugni,Jugni,0gHFDbhx2RFBrhJplPxlcT,0.761,0.896,11,-3.668,0,0.215,2.7e-06,0.124,0.65,96.957,193190,4
+Ajebo Hustlers,In Love,In Love,00ZYd7GYdFrNZFQP5O5T5m,0.65,0.773,9,-5.604,0,0.359,0,0.193,0.525,193.684,200412,4
+S I,Kak Up Your Bumper,Kak Up Your Bumper,23u3nj1xyQOb9W0zNvhicd,0.717,0.898,7,-4.995,1,0.0808,0,0.528,0.648,104.973,192026,4
+Adekunle Gold,5 Star (with Rick Ross),5 Star (with Rick Ross),5shjJZp662loniBOyjqr8h,0.815,0.696,6,-6.603,0,0.275,0,0.111,0.469,106.536,169800,4
+Asake,Mr. Money With The Vibe,Ototo,0CUJV0Hh512Ns7U2yGflqt,0.805,0.58,0,-7.924,0,0.078,0.000361,0.403,0.886,130.672,156735,5
+S I,More Vibes,More Vibes,2savmC6rZVqgwH73kMoo3Q,0.779,0.583,10,-5.777,0,0.034,0.00387,0.18,0.724,111.963,192000,5
+Zinoleesky,Call of Duty,Call of Duty,2wfWK2cmM5DZ4VnT7rDnFO,0.893,0.84,11,-4.608,0,0.171,1.57e-06,0.119,0.812,116.05,144759,4
+Major Lazer,Koo Koo Fun,Koo Koo Fun,0ck7L2Z4C9gzShUIwvVMSs,0.856,0.76,1,-7.41,0,0.0359,0.0841,0.0709,0.153,113.008,193274,4
+S I,African Picasso,African Picasso,11CQblF1SkCyRt6HAvjkrH,0.687,0.86,0,-4.273,0,0.069,4.95e-06,0.252,0.664,86.994,192000,4
+Nandy,Napona,Napona,0vqWa6py4X96uFeaue6DKv,0.732,0.704,8,-4.058,0,0.0882,1.11e-06,0.112,0.586,100.065,169938,4
+DJ Tunez,"Majo (feat. Wizkid, Alpha P & Tay Iwar)","Majo (feat. Wizkid, Alpha P & Tay Iwar)",0KLY7SCQuVA4Hk1nzk61p4,0.897,0.642,2,-3.493,0,0.0455,0.0354,0.0844,0.718,103.006,153018,4
+Zuchu,Kwikwi,Kwikwi,6RdkggWArMBHrxBmKTvsaj,0.943,0.808,0,-4.275,0,0.206,0.00112,0.151,0.841,115.952,191862,4
+Wizkid,Bad To Me,Bad To Me,2pUlBBWq8R10ylbBvZJV9j,0.859,0.822,10,-5.005,0,0.0467,0.0144,0.101,0.908,110.045,177170,4
+Asake,Mr. Money With The Vibe,Muse,3Nx9nMHMFgkeF8xpVk1Ev0,0.541,0.504,0,-7.068,0,0.111,0.0484,0.221,0.742,130.178,117551,5
+CKay,Sad Romance,by now,3nX1EGT2Rcq5cBAUVECL3n,0.637,0.611,4,-4.092,0,0.14,0.0121,0.121,0.765,189.904,164284,4
+Asake,Terminator,Terminator,4vI2KCvXTAPR3vfiWg1J78,0.829,0.657,0,-6.802,1,0.0648,5.27e-05,0.0937,0.811,116.984,155897,4
+Themba Lunacy,Temperature,Temperature,5yoBXPcwUOKpDLneaY7Nvx,0.781,0.556,11,-10.341,0,0.0733,3.78e-06,0.141,0.533,104.92,182857,4
+Carterefe,Machala,Machala,2GiyNwLCSfXjsb1nwAg1Sq,0.876,0.838,9,-6.267,0,0.12,0.000864,0.232,0.644,114.979,154632,4
+Bayanni,Bayanni,Family,49b92P6MYHTJ3OEW1oP5WI,0.654,0.458,7,-9.48,1,0.0392,0.000449,0.234,0.175,110.129,143657,4
+Fireboy DML,Bandana,Bandana,5CTQCPv51aLWpwTbqo8mEL,0.818,0.605,1,-7.121,1,0.038,0.0116,0.0696,0.366,104.931,178225,4
+Asake,Mr. Money With The Vibe,Reason (feat. Russ),6WavyUNdnJk9SRW7ko9ack,0.608,0.58,0,-8.242,0,0.248,5.1e-06,0.353,0.391,102.116,131765,4
+DJ Neptune,Grinding,Grinding,0sItsKRwMl82xCtz7oeemH,0.782,0.602,9,-6.578,1,0.0692,0,0.306,0.618,107.977,146000,4
+BNXN fka Buju,Bad Since '97,Many Ways (feat. Wizkid),0lWW0X74IvjNlgY5glykvY,0.773,0.526,5,-11.858,0,0.0809,0.00297,0.169,0.813,99.989,227328,4
+Lasmid,Friday Night,Friday Night,4lFOrIFSya1i1cBHMUFve8,0.871,0.648,2,-7.61,1,0.141,0,0.112,0.775,114.911,171136,4
+Coblaze,Good Girl,Good Girl,4yfvQspl2cPQBq8F8Y8tiA,0.719,0.677,9,-6.215,0,0.305,0.0263,0.106,0.97,200.068,156877,4
+Baba Kuboye,From Ikoyi with Horns,Ikoyi Boy,4AlDx1fQV3XLAsxgPovoZh,0.521,0.669,10,-8.318,0,0.266,0,0.104,0.682,94.997,207158,4
+Shoday,Caution,Caution,3s1vxTu48FlpPpwztVB4ht,0.818,0.764,5,-3.899,1,0.0402,0.00442,0.062,0.738,114.98,145450,4
+Joeboy,Contour,Contour,5OBtqiT5Zg1BqXPx4bBo6T,0.76,0.643,0,-7.856,0,0.051,0.000301,0.142,0.569,101.953,189015,4
+Fireboy DML,Playboy,All Of Us (Ashawo),6459gZKddpOoPIH8PAcCwS,0.605,0.813,11,-6.416,1,0.0903,0.0033,0.132,0.748,199.837,183350,4
+Burna Boy,"Love, Damini",It's Plenty,5hVjoL3sHepZROri63wBxP,0.776,0.565,7,-10.609,1,0.105,8.81e-05,0.308,0.53,107.035,216992,4
+Omah Lay,Boy Alone,soso,1wADwLSkYhrSmy4vdy6BRn,0.711,0.725,3,-8.315,0,0.0941,0.129,0.11,0.53,105.016,183057,4
+Fireboy DML,Playboy,Diana,6g8vNyogMW32lhHlNcDiwX,0.786,0.357,2,-7.735,0,0.0372,8.37e-05,0.11,0.524,108.946,232156,4
+DJ Tunez,Cruise Control Vol. 1,Bad Girl (feat. Wande Coal & Victony),0Q6LyEu3vMd5zCsTMUqm6T,0.823,0.762,9,-6.752,0,0.0481,1.67e-05,0.113,0.338,114.015,204232,4
+Bella Shmurda,New Born Fela,New Born Fela,3yifENCc2SkxVfpfnuCwas,0.796,0.554,6,-6.261,0,0.209,0,0.187,0.452,103.989,129808,4
+Tiwa Savage,Jaiye Foreign,Jaiye Foreign,3iRKwxW8ZDjmL9nKk3nisz,0.82,0.816,5,-6.29,0,0.077,7.81e-05,0.0541,0.861,108.98,190165,4
+Peruzzi,Hypertension / Things I Need,Hypertension,5lLwFE3fCAQllnPLsKtFP9,0.844,0.839,6,-6.188,1,0.0478,0.00141,0.0694,0.621,113.933,197895,4
+JAE5,Propeller (feat. Dave & BNXN),Propeller (feat. Dave & BNXN),4A7sSA10D35HQUNrSOl5Zo,0.846,0.508,8,-7.873,1,0.308,0.000126,0.0961,0.567,126.447,204440,5
+Burna Boy,Last Last,Last Last,2PDgArI0p7UkeYgXWuqpmh,0.795,0.565,3,-4.457,0,0.0948,0,0.0802,0.55,87.925,172342,4
+Soundz,In The Rough,Attention,1VxjsBmtDT2Vmhr6YpW9G2,0.806,0.425,2,-7.636,0,0.0438,1.66e-06,0.101,0.387,106.049,165283,4
+Burna Boy,"Love, Damini",For My Hand (feat. Ed Sheeran),0HaRLPnr887lcQM2YQzkff,0.87,0.479,9,-7.779,1,0.165,0.000157,0.209,0.717,104.059,159124,4
+Omah Lay,Boy Alone,i'm a mess,65v99AWZyNz3aRmfrT2I7N,0.682,0.633,4,-6.213,1,0.239,0.0328,0.112,0.601,123.259,153946,5
+TAR1Q,SON OF THE MOON,bAd IntentIons,0UnOyqOuDW8vk4P2mrjPEs,0.646,0.441,1,-5.377,0,0.0956,0,0.112,0.393,112.01,172098,4
+Kizz Daniel,Buga (Lo Lo Lo),Buga (Lo Lo Lo),4eZZofkV1OQ9GDqAgHqNpA,0.92,0.716,8,-7.104,1,0.105,0.00222,0.104,0.961,115.991,183103,4
+Yrw Savage,Omah Lay,Omah Lay,5AoTTqiTzdLkcMQjXnIUDC,0.513,0.375,11,-10.372,0,0.363,0.255,0.0961,0.551,66.651,144019,5
+1da Banton,Summer Love,Summer Love,7tzOeM0LbXJYMzjny2D45r,0.73,0.568,6,-6.033,0,0.188,1.27e-06,0.205,0.311,102.754,179417,4
+Magixx,Shaye,Shaye,0hFgFEdlRzbWGZGEHiCwPy,0.655,0.757,5,-5.625,1,0.133,2.05e-05,0.099,0.655,114.999,169043,4
+Oxlade,KU LO SA - A COLORS SHOW,KU LO SA - A COLORS SHOW,2WigMwGJysIh9fRnSJvpjn,0.649,0.655,10,-5.534,0,0.0652,0,0.22,0.793,92.9,147581,4
+Romi,Romi,Numbers,4GKMmjfoBUAF3v31I3dU2n,0.631,0.443,7,-7.143,1,0.414,0,0.0863,0.493,199.867,136800,4
+Chike,The Brother's Keeper,Bad,07NtuuBsiXyeUjMGceBKao,0.903,0.494,1,-7.749,1,0.148,0.0118,0.285,0.694,109.96,161403,4
+Magixx,ATOM,All Over,394IT4yrYjwT65ePqKLFbq,0.798,0.516,6,-9.995,1,0.213,4.3e-05,0.124,0.639,100.018,175200,4
+Mayorkun,Certified Loner (No Competition),Certified Loner (No Competition),6NKuW3yaNXtloGw1RB8WUi,0.931,0.676,6,-7.492,0,0.0498,0,0.103,0.739,111.948,165000,4
+Jaywillz,Sun Flower (EP),Wishlist,50z3YAFMincQJ4jIBlgBGk,0.481,0.685,5,-6.795,1,0.309,0,0.0935,0.847,67.1,150747,5
+Pheelz,Finesse,Finesse,3UqcIgObI7zZk8e7nvqmfc,0.861,0.537,1,-8.199,0,0.159,0,0.289,0.769,102.014,151765,4
+Iyanya,Like (feat. Kizz Daniel),Like (feat. Kizz Daniel),5Zez1biAREA2C8706kdlIb,0.745,0.709,2,-5.123,1,0.0511,0.00986,0.118,0.791,109.961,150545,4
+King Promise,10 Toes (feat. Omah Lay),10 Toes (feat. Omah Lay),3J7nQSm2GxkjArlboiY1m9,0.751,0.564,0,-7.837,0,0.164,3.02e-06,0.142,0.601,103.952,177068,4
+Mavins,Overloading (OVERDOSE),Overloading (OVERDOSE),4lVEVXrlQlXPdYWMGTwrFe,0.546,0.611,0,-9.459,0,0.172,0.00149,0.101,0.749,104.059,205000,4
+Joeboy,Spiritual Gbedu - A COLORS SHOW,Spiritual Gbedu - A COLORS SHOW,61n4jnocmK2GiRSdNYXfSJ,0.85,0.582,0,-9.158,0,0.0459,0.039,0.102,0.445,108.02,126578,4
+Ruger,The Second Wave Deluxe,Girlfriend,4MzOppXoeKvDsVaNMeOK3C,0.788,0.913,5,-4.495,0,0.0671,0.0689,0.272,0.672,99.994,196800,4
+Majeeed,Bitter Sweet,No Room For Love,3UsjXOmKtQhUs9yD9cd05F,0.781,0.557,11,-7.351,1,0.112,1.98e-05,0.626,0.528,94.999,189789,4
+Chris Brown,Call Me Every Day (feat. Wizkid),Call Me Every Day (feat. Wizkid),7vVs4XCsQyGn1Au3drvo9Z,0.729,0.634,4,-7.194,0,0.175,1.35e-05,0.0997,0.772,171.862,146840,4

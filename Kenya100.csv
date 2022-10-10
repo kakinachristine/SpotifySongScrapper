@@ -1,0 +1,61 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Ayra Starr,Rush,Rush,1rrqJ9QkOBYJlsZgqqwxgB,0.792,0.503,1,-8.044,1,0.0626,0.00057,0.0959,0.381,99.97,185093,4
+Bien,Inauma,Inauma,3HlLqEWLhoKV9GVVOFerQb,0.73,0.673,7,-8.518,1,0.0597,0.0,0.125,0.632,96.98,210309,4
+Oxlade,KU LO SA - A COLORS SHOW,KU LO SA - A COLORS SHOW,2WigMwGJysIh9fRnSJvpjn,0.649,0.655,10,-5.534,0,0.0652,0.0,0.22,0.793,92.9,147581,4
+Ruger,The Second Wave Deluxe,Girlfriend,4MzOppXoeKvDsVaNMeOK3C,0.788,0.913,5,-4.495,0,0.0671,0.0689,0.272,0.672,99.994,196800,4
+Fireboy DML,Bandana,Bandana,5CTQCPv51aLWpwTbqo8mEL,0.818,0.605,1,-7.121,1,0.038,0.0116,0.0696,0.366,104.931,178225,4
+Mavins,Overloading (OVERDOSE),Overloading (OVERDOSE),4lVEVXrlQlXPdYWMGTwrFe,0.546,0.611,0,-9.459,0,0.172,0.00149,0.101,0.749,104.059,205000,4
+Jay Melody,Nakupenda,Nakupenda,3TlutO6C5h7LgLcH0X8GMc,0.606,0.68,11,-6.444,1,0.0423,0.0122,0.193,0.892,174.93,194000,4
+K.O,SETE (feat. Young Stunna & Blxckie),SETE (feat. Young Stunna & Blxckie),5mXZz0tXIToxu3HRohrdSK,0.797,0.627,4,-7.096,0,0.0698,0.0,0.156,0.606,96.019,249533,4
+Burna Boy,"Love, Damini",For My Hand (feat. Ed Sheeran),0HaRLPnr887lcQM2YQzkff,0.87,0.479,9,-7.779,1,0.165,0.000157,0.209,0.717,104.059,159124,4
+AKA,Lemons (Lemonade),Lemons (Lemonade),6PqdJb18ssWDcROvnsEqy6,0.767,0.525,0,-10.225,1,0.232,2.1e-05,0.0951,0.478,98.101,259592,4
+Sam Smith,Unholy (feat. Kim Petras),Unholy (feat. Kim Petras),3nqQXoyQOWXiESFLlDF1hG,0.714,0.472,2,-7.375,1,0.0864,4.51e-06,0.266,0.238,131.121,156943,4
+Fully Focus,Dimension,Dimension,5mBvUoQKcjf7vXwiBSc30Z,0.743,0.69,0,-7.352,1,0.0845,5.47e-06,0.108,0.641,91.983,151304,4
+Ice Spice,Munch (Feelin’ U),Munch (Feelin’ U),1jOgJN75btuUONIdf57vHz,0.811,0.528,11,-7.278,0,0.275,0.0,0.0787,0.635,166.084,104819,4
+DJ Khaled,GOD DID,"GOD DID (feat. Rick Ross, Lil Wayne, Jay-Z, John Legend & Fridayy)",2sOj9vyd6yiss9W1IK6chU,0.42,0.725,8,-4.262,1,0.223,0.0,0.18,0.186,77.941,501648,1
+Victony,Outlaw,Soweto,6RbOyNeajWax51NtpO6WT8,0.749,0.663,5,-7.093,0,0.0364,0.000168,0.103,0.593,104.967,148000,4
+Gidi Gidi Maji Maji,Unbwogable,Atoti,1ngIHnYITAPiEqGJKamhCU,0.925,0.731,7,-7.069,0,0.193,5.82e-05,0.127,0.646,99.963,355987,4
+Uncojingjong,DANCEHALLING,DANCEHALLING,1HDXvQAavbE3GsTOIQWkKi,0.837,0.929,10,-5.084,0,0.0603,0.0,0.141,0.89,105.007,144065,4
+Burna Boy,"Love, Damini",It's Plenty,5hVjoL3sHepZROri63wBxP,0.776,0.565,7,-10.609,1,0.105,8.81e-05,0.308,0.53,107.035,216992,4
+Asake,Mr. Money With The Vibe,Terminator,5ycsqezujKrwviU3VFhci1,0.804,0.688,0,-6.794,1,0.0531,0.00448,0.0958,0.852,117.032,139487,4
+Chris Brown,Indigo (Extended),Under The Influence,5IgjP7X4th6nMNDh4akUHb,0.733,0.69,9,-5.529,0,0.0427,1.18e-06,0.105,0.31,116.992,184613,4
+Wakadinali,EXPOSED (Munga`s Revenge),Geri Inengi,3mMCfqlXkDzH8jE9mjIu7d,0.628,0.753,10,-5.286,0,0.375,1.24e-05,0.0994,0.615,96.407,270000,4
+Camidoh,"Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]","Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",0ApflIvLLPwEZuS36WYlh6,0.582,0.695,8,-5.506,1,0.0975,5.9e-06,0.112,0.543,101.005,251286,4
+Limoblaze,Jireh (My Provider),Jireh (My Provider),4pR4oQJULf7FDB54TleMyH,0.443,0.778,0,-7.564,0,0.266,0.0,0.215,0.628,128.25,168000,5
+Burna Boy,"Love, Damini",Last Last,5YbPxJwPfrj7uswNwoF1pJ,0.795,0.565,3,-4.457,0,0.0948,0.0,0.0802,0.55,87.925,172342,4
+Beyoncé,RENAISSANCE,I'M THAT GIRL,1MpCaOeUWhox2Fgigbe1cL,0.554,0.535,5,-8.959,0,0.186,1.32e-05,0.124,0.136,105.865,208014,4
+Central Cee,Doja,Doja,3LtpKP5abr2qqjunvjlX5i,0.911,0.573,6,-7.43,1,0.288,0.0,0.403,0.972,140.04,97393,4
+Lilmaina,KISHASH,KISHASH,7BmSFviUm0dByhAZ10wNbk,0.928,0.731,2,-5.111,1,0.208,0.0,0.112,0.571,101.043,159940,4
+Fave,Riddim 5,Mr Man,6VQMo5jaGsonAAPCRkfkQO,0.686,0.621,11,-5.474,1,0.165,7.61e-05,0.246,0.279,90.019,164333,4
+Lojay,LV N ATTN,Monalisa,1zwZ26A7OA5wTrA3FejCLL,0.827,0.705,10,-6.756,0,0.0429,0.00556,0.102,0.624,113.006,213992,4
+Kizz Daniel,Buga (Lo Lo Lo),Buga (Lo Lo Lo),4eZZofkV1OQ9GDqAgHqNpA,0.92,0.716,8,-7.104,1,0.105,0.00222,0.104,0.961,115.991,183103,4
+Ayra Starr,19 & Dangerous,Beggie Beggie,6zublRIkZocboXucqc8hgB,0.723,0.43,4,-6.761,1,0.0429,0.0,0.101,0.324,99.995,208500,4
+Pheelz,Finesse,Finesse,4Gasn91fsCefnN8zM5GjA8,0.859,0.551,1,-7.916,0,0.149,0.0,0.194,0.777,102.049,155293,4
+Nicki Minaj,Super Freaky Girl,Super Freaky Girl,4C6Uex2ILwJi9sZXRdmqXp,0.95,0.891,2,-2.653,1,0.241,1.77e-05,0.309,0.912,133.01,170977,4
+Zuchu,Fire,Fire,1LFM0KBmoe13qfMQZucsPk,0.76,0.812,3,-4.143,1,0.34,4.81e-05,0.118,0.742,97.926,217735,4
+Brent Faiyaz,WASTELAND,LOOSE CHANGE,41vOAwrIfiE35QytBrHHBm,0.392,0.354,1,-8.872,0,0.145,0.0,0.144,0.453,74.467,226011,1
+Uncojingjong,UNCO,Wanjapi,3Axax40ktlCBaoIIEpzsx8,0.912,0.425,1,-16.408,1,0.293,0.000645,0.0482,0.649,99.032,175752,4
+Asake,Sungba (Remix) [feat. Burna Boy],Sungba (feat. Burna Boy) - Remix,5FtWjKVBTMklN2yCP9UhF6,0.861,0.588,7,-8.861,1,0.243,0.0,0.0591,0.705,111.995,210000,4
+Chris Brown,Call Me Every Day (feat. Wizkid),Call Me Every Day (feat. Wizkid),7vVs4XCsQyGn1Au3drvo9Z,0.729,0.634,4,-7.194,0,0.175,1.35e-05,0.0997,0.772,171.862,146840,4
+Rema,Rave & Roses,Calm Down,3BnDvpeuGOj21Ir2aVEtQo,0.814,0.789,11,-6.29,1,0.0405,0.000502,0.137,0.842,107.003,219669,4
+Beyoncé,BREAK MY SOUL,BREAK MY SOUL,2KukL7UlQ8TdvpaA7bY3ZJ,0.687,0.887,1,-5.04,0,0.0826,2.21e-06,0.27,0.853,114.941,278282,4
+Ruger,The Second Wave,Snapchat,10m1yYuud3w7bb43srjbWi,0.809,0.454,1,-5.715,1,0.0429,0.000177,0.218,0.309,94.033,206775,4
+Khaligraph Jones,Blue Ticks (feat. Femi One),Blue Ticks (feat. Femi One),4idmyddVB7baddyWJWDnEF,0.612,0.458,9,-10.22,0,0.423,0.0,0.138,0.357,74.085,295135,4
+Giveon,Give Or Take,Lost Me,6TSO4hwz9WGrEUY7ABGVim,0.428,0.443,2,-8.955,0,0.101,1.76e-05,0.219,0.2,87.934,180954,4
+Otile Brown,Woman (feat. Harmonize),Woman (feat. Harmonize),6V6Y2wIrvJoyNRnhW2lqCe,0.647,0.772,11,-4.027,1,0.0693,0.0,0.209,0.908,97.483,208158,4
+FEMI ONE,Hepi,Hepi,2HV7LKVfSS4U9oRLXOoEtv,0.741,0.692,10,-5.262,0,0.333,3.92e-06,0.327,0.664,187.936,211023,4
+BURUKLYN BOYZ,PREE,PREE,0voJpkHOyEcHiTmCS6rFEB,0.843,0.687,8,-8.63,1,0.36,0.000132,0.197,0.608,146.971,197565,4
+Brandy Maina,KUBALI,KUBALI,7mFvw0Ub6AIMSAWVgZgHzH,0.732,0.824,8,-5.536,0,0.0849,0.0,0.0729,0.469,113.926,192601,4
+Marioo,Mi Amor,Mi Amor,0bk32GtgvGAgaShB0Hj5oV,0.795,0.697,7,-6.134,0,0.117,0.000298,0.145,0.647,169.98,185243,4
+Fireboy DML,Peru (Remix),Peru - Remix,7voSun33hCNkIrjxaj3g47,0.966,0.509,7,-7.559,0,0.123,0.0,0.0799,0.646,108.013,186953,4
+Drake,"Honestly, Nevermind",Jimmy Cooks (feat. 21 Savage),3F5CgOj3wFlRv51JsHbxhe,0.529,0.673,0,-4.711,1,0.175,2.41e-06,0.093,0.366,165.921,218365,4
+BURUKLYN BOYZ,EAST MPAKA LONDON,USIKAM HII SECTION,5XDl1xJSDK5ys6jI9r0p2i,0.855,0.578,10,-6.307,1,0.25,0.000607,0.1,0.415,142.939,228856,4
+CKay,Sad Romance,emiliana,6cWath96kzfqITDd6S0El8,0.738,0.549,6,-9.704,1,0.0513,0.402,0.111,0.475,98.965,164848,4
+Lexsil,Bounce,Bounce,5dNifN92fKRGXWas8YQ80O,0.717,0.835,1,-5.911,0,0.179,0.013,0.141,0.775,101.25,201247,4
+Koffee,Pull Up,Pull Up,7aBRoWtp9jsZFxwml1LfeG,0.81,0.604,7,-3.296,1,0.0904,0.0514,0.0944,0.646,102.937,171092,4
+Future,I NEVER LIKED YOU,WAIT FOR U (feat. Drake & Tems),59nOXPmaKlBfGMDeOVGrIK,0.463,0.642,1,-4.474,1,0.34,0.0,0.0686,0.339,83.389,189893,4
+Jack Harlow,First Class,First Class,1rDQ4oMwGJI7B4tovsBOxc,0.905,0.563,8,-6.135,1,0.102,9.71e-06,0.113,0.324,106.998,173948,4
+Rema,Rave & Roses,Time N Affection,0aMOalD335v1hsSXmLURzz,0.549,0.689,9,-6.667,0,0.118,0.0,0.0785,0.268,108.643,230722,4
+Chris Kaiga,Adventures of Chris Kaiga,Kanyagia,5lQ8vd1uvPqib93vOyTFJh,0.582,0.686,6,-6.004,0,0.299,0.0,0.33,0.497,196.28,157555,4
+Post Malone,Twelve Carat Toothache,Cooped Up (with Roddy Ricch),32vE1nuG8T9c8bhmZdRY6d,0.669,0.773,0,-5.619,1,0.153,0.0,0.113,0.377,93.923,185857,4
+Black Sherif,Kwaku the Traveller,Kwaku the Traveller,7pXNFEzqeZB8rIbcFtYTop,0.64,0.552,0,-7.327,0,0.354,0.0,0.107,0.318,135.241,185365,4
